@@ -1,3 +1,22 @@
+# Tech stack: 
+* React JS
+* Redux
+* Material-UI
+* React-hook-form
+* Router
+* firebase
+
+# Feature & functionality
+* compose the message
+* open and read the full email
+* empty email validation
+* routes
+* Authentication (login, logout)
+* Timestamp
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
